@@ -1,5 +1,10 @@
 <h1 align="center">Hi👋, I'm Nishara S. Harischandra</h1>
 <h3 align="center">A passionate full stack web developer from Sri Lanka</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=Nizara&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
@@ -24,8 +29,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Nizara&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
